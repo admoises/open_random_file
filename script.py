@@ -14,7 +14,6 @@ def select_directory():
     try:
         print(f"Olá, selecione uma opção de diretório:\n(0) {directories[0]}\n(1) {directories[1]}\n(2) {directories[2]}\n(3) {directories[3]}\n(4) {directories[4]}:\n\n")
         openFile(input())
-  
     except:
         print("Erro ao selecionar opção. Verifique se todos os repositórios foram adicionados")
 
