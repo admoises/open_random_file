@@ -3,4 +3,4 @@ Script para abertura aleatória de arquivo com determinada extensão em reposit�
 
 # Dependências:
   pip install python-dotenv
-  ## https://pypi.org/project/python-dotenv/
+  https://pypi.org/project/python-dotenv/
