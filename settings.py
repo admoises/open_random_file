@@ -14,15 +14,3 @@ DIRECTORY_C = os.environ.get("DIRECTORY_C")
 DIRECTORY_D = os.environ.get("DIRECTORY_D")
 DIRECTORY_E = os.environ.get("DIRECTORY_E")
 DIRECTORY_F = os.environ.get("DIRECTORY_F")
-
-EXTENSIONS = [
-    '.mkv',
-    '.mp4',
-    '.wmv',
-    '.mov',
-    '.avi',
-    '.mpg',
-    '.mpeg',
-    '.webm',
-    '.flv',
-]
